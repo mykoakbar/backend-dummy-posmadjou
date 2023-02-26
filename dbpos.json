@@ -1,0 +1,28 @@
+{
+    "user":[
+        {
+            "email" : "budi@gmail.com",
+            "username" : "budi",
+            "password" : "budi123",
+            "id" : 1,
+            "pp" : "budi.jpg",
+            "otp" : "1011"
+        },
+        {
+            "email" : "andi@gmail.com",
+            "username" : "andi",
+            "password" : "andi123",
+            "id" : 2,
+            "pp" : "andi.jpg",
+            "otp" : "2021"
+        },
+        {
+            "email" : "bagas@gmail.com",
+            "username" : "bagas",
+            "password" : "bagas123",
+            "id" : 3,
+            "pp" : "bagas.jpg",
+            "otp" : "3031"
+        }
+    ]
+}
