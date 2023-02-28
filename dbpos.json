@@ -23,6 +23,14 @@
             "id" : 3,
             "pp" : "bagas.jpg",
             "otp" : "3031"
+        },
+        {
+            "email" : "kelvin.p2504@gmail.com",
+            "username" : "Kelvin25",
+            "password" : "Kelvin.P24680",
+            "id" : 3,
+            "pp" : "kelvin.png",
+            "otp" : "3031"
         }
     ]
 }
