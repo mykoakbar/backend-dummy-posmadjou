@@ -1,14 +1,16 @@
 {
   "user": [
     {
-      "email": "budi@gmail.com",
+      "fullname": "Budi Atmaja",
       "username": "budi",
+      "email": "budi@gmail.com",
       "password": "budi123",
       "id": 1,
       "pp": "budi.jpg",
       "otp": "1011"
     },
     {
+      "fullname": "Andi Surya",
       "email": "andi@gmail.com",
       "username": "andi",
       "password": "andi123",
@@ -17,6 +19,7 @@
       "otp": "2021"
     },
     {
+      "fullname": "Bagas Trimoko",
       "email": "bagas@gmail.com",
       "username": "bagas",
       "password": "bagas123",
@@ -25,6 +28,7 @@
       "otp": "3031"
     },
     {
+      "fullname": "Kelvin Prananta",
       "email": "kelvin.p2504@gmail.com",
       "username": "Kelvin25",
       "password": "Kelvin.P24680",
